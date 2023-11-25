@@ -1,0 +1,26 @@
+[
+	{
+		"titulo": "nolan",
+		"autor": "Walsh",
+		"anio": "1978",
+		"id": "2"
+	},
+	{
+		"titulo": "pepe grillo",
+		"autor": "pino",
+		"anio": 1995,
+		"id": "4"
+	},
+	{
+		"titulo": "peter pan",
+		"autor": "el indio",
+		"anio": 2013,
+		"id": "5"
+	},
+	{
+		"titulo": "queen",
+		"autor": "fm",
+		"anio": 1991,
+		"id": "6"
+	}
+]
